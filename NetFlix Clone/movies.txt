@@ -1,0 +1,10 @@
+0,A New Hope,Sci-Fi,0,125,0
+1,The Return of The King,Fantasy,0,228,0
+2,Staright Outta Compton,Biographics,0,120,0
+3,LaLa Land,Musical,0,128,0
+4,Perfect Blue,Anime,0,150,0
+5,Spirited Away,Anime,0,120,0
+6,The Godfather,Drama,0,178,0
+7,Fellowship Of the Ring,Fantasy,4,228,1
+8,The Empire Strikes Back,Sci-Fi,4,125,2
+9,Furia Nera,Comedia,4,120,2

@@ -1,0 +1,31 @@
+0,Pilot,1,1,0,0
+0,The Big Bran Hypothesis,2,1,0,0
+0,The Bad Fish Paradigm,3,2,0,0
+1,Pilot,1,1,0,0
+1,The Tagger,2,1,0,0
+1,The Slump,3,1,0,0
+2,Homecoming,1,1,0,0
+2,The Akatsuki Make Its Move,2,1,0,0
+2,The Results of Training,3,1,0,0
+3,Angel Attack,1,1,0,0
+3,The Beast,2,1,0,0
+3,A Transfer,3,1,0,0
+4,Pilot,1,1,0,0
+4,Earth Skills,2,1,0,0
+4,Earth Kills,3,1,0,0
+5,Due Process,1,7,0,0
+5,Crisis on Infinite Earths: Part Four,2,8,0,0
+5,Fadeout,3,8,0,0
+6,What Happened,1,1,0,0
+6,Our Town,2,1,0,0
+6,Childhood's End,3,1,0,0
+7,Antarctica,1,1,0,0
+7,Sam Takes a Walk,2,3,0,0
+7,Magical Bird #2,3,4,0,0
+8,Now in Color,1,1,5,1
+8,Breaking the Fourth Wall,2,1,5,1
+8,The Series Finale,3,1,0,0
+9,Day One,1,1,0,0
+9,Day Fifteen,2,1,0,0
+9,Day Twenty-Three,3,1,0,0
+10,Ankunft,1,1,0,10
