@@ -1,8 +1,6 @@
 
-/* Alumno: Pablo Agustín Ortega Kral
-Matrícula: A0034464
-Alumno: Ana Lucía Cárdenas Pérez
-Matrícula: A01284090 */
+// Pablo Agustín Ortega Kral
+
 
 #include <iostream>
 #include <iomanip>
